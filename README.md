@@ -40,8 +40,8 @@ A robust and accurate face verification system that leverages state-of-the-art d
 
 ```bash
 # Clone this repository
-git clone https://github.com/your-username/deepface-recognition.git
-cd deepface-recognition
+git clone https://github.com/subhashdasyam/compare-faces.git
+cd compare-faces
 
 # Install dependencies
 pip install -r requirements.txt
