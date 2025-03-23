@@ -2,8 +2,8 @@
 
 A robust and accurate face verification system that leverages state-of-the-art deep learning models to compare and verify faces across different images. This tool uses the DeepFace library and provides multiple models, detectors, and visualization options.
 
-![Example Verification](![image](https://github.com/user-attachments/assets/da33f448-b1db-4699-8f87-194f85c5067a)
-)
+![image](https://github.com/user-attachments/assets/293fba9a-a87b-49d9-86af-d40e2be8d6e5)
+
 
 ## Features
 
